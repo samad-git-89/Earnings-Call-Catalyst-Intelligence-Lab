@@ -46,8 +46,7 @@ LLM Engine: Google Gemini API (gemini-3-flash-preview)
 
 Clone the repository:
 
-git clone https://github.com/your-username/earnings-catalyst-intelligence-lab.git
-cd earnings-catalyst-intelligence-lab
+git clone https: (https://github.com/samad-git-89/Earnings-Call-Catalyst-Intelligence-Lab/tree/main)
 
 
 Launch the application:
